@@ -1,0 +1,119 @@
+body{
+    background-image: url("pexels-nadi-lindsay-4908012.jpg") ;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+   
+    
+}
+
+header{
+     height: 98vh;
+     border:1px solid  black;
+    margin: 0;
+     background-image: url("pexels-nataliya-vaitkevich-7184361.jpg");
+     background-size: cover;
+     font-family: 'Dancing Script', cursive;
+    
+}
+h3{
+    margin-top: 0;
+    margin-left: 650px;
+    margin bottom: 600px;
+}
+h1{
+     column-gap: normal;
+     margin-top: 250px ;
+     margin-left: 420px;
+     margin-bottom: 0;
+     font-size: 100px;
+}
+h2{
+     font-size: 50px;
+          font-family: 'Great Vibes', cursive;
+}
+.menu li{
+     float:right;
+     
+     color: black;
+   
+     list-style: none;
+     padding: 6px;
+     
+}
+.menu li a{
+     
+     text-decoration: none;
+     font-family: 'Playfair Display', serif;
+     color: black;
+}
+.menu li a:hover{
+     color: rgb(207, 75, 82)
+
+}
+ hr{
+      height: 1px;
+      background-color: black;
+      margin: 0;
+ }
+ 
+
+p{
+     font-family: 'Fuggles', cursive;
+     width: 60%;
+     font-size: 200%;
+     font-weight: bold;
+     color:rgb(37, 29, 29);
+    
+}
+.indian {
+     float: left;
+     text-align: left;
+     clear: both;
+}
+
+
+.Chinese  {
+     float: right;
+     text-align: right;
+}
+
+.Chinese p  {
+     float: right;
+     text-align: right;
+}
+
+.German{
+     float: left;
+     text-align: left;
+     clear: both;
+}
+.Korean{
+     float: right;
+     
+     text-align: right;
+     
+}
+.Korean p{
+     float: right;
+    
+     text-align: right;
+     
+}
+.french   {
+     float: right;
+     margin-left: 50px;
+     text-align: right;
+    
+}
+
+.french  p {
+     float: right;
+     text-align: right;
+    
+}
+
+
+
+
+
